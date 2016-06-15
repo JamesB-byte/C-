@@ -6,7 +6,12 @@
 #include <memory>
 
 
+/*
 
+This was a class assignment. Its a simple file cabinet system.
+You can add, remove  and view people 
+
+*/
 
 using namespace std;
 
